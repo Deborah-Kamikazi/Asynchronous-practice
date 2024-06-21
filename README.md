@@ -21,3 +21,8 @@ myFetch('https://my-random-api.com/data')
 .catch(error => console.log('Error:', error));Bonus points (optional)
 Make your fetch function perform other request methods like POST or receive request options.
 ```
+### Q5
+```
+Write a JavaScript function that fetches data from 
+an API and retries the request a specified number of times if it fails.
+```
