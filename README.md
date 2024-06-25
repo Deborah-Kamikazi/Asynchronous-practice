@@ -31,3 +31,16 @@ an API and retries the request a specified number of times if it fails.
 Write a function that takes a URL and fetches
 data from that URL but aborts when the request takes more than 10ms
 ```
+### Q7
+```
+Suppose you have a web page that sends multiple fetch requests to different URLs simultaneously. Implement a scenario where clicking a "Cancel All" button aborts all ongoing fetch requests using AbortController. How would you structure your code to handle this situation
+```
+### Q8
+```
+Write a javascript function that displays a number every two seconds and stops displaying after 5 seconds
+```
+### Q9
+```
+ Write a JavaScript function that fetches data from an API and 
+ retries the request a specified number of times if it fails.
+```
