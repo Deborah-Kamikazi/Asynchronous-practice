@@ -134,3 +134,14 @@ performFastAsync('https://jsonplaceholder.typicode.com/todos/1', 10)
 ```
 Write a Promise that resolves with "Success!" after 1 second. Log the result to the console.
 ```
+### Q21
+```
+ Create a Promise that rejects with "Error!" after 2 seconds. Handle the error using `.catch()`.
+```
+### Q22
+```Using the Fetch API, write a function to fetch data from an API endpoint and log the response to the console.
+```
+### Q23
+```
+ Write an asynchronous function using `async`/`await` to fetch and log data from an API.
+```
