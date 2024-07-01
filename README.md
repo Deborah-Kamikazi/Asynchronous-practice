@@ -145,3 +145,14 @@ Write a Promise that resolves with "Success!" after 1 second. Log the result to 
 ```
  Write an asynchronous function using `async`/`await` to fetch and log data from an API.
 ```
+### Q24
+```
+ Create a simple callback function that multiplies two numbers and then calls a callback with the result.
+
+```
+### Q25
+```
+ Write a function that makes an asynchronous request using `XMLHttpRequest` and logs the response.
+
+```
+                                                                                                                 
