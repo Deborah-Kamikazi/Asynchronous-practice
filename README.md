@@ -116,3 +116,17 @@ performFastAsync('https://jsonplaceholder.typicode.com/todos/1', 10)
 })
 
 ```
+### Q17
+```
+
+ Write a function that uses `setTimeout` to log "Hello, World!" to the console after 2 seconds.
+
+```
+### Q18
+```
+ Create a function that takes a callback and executes it after 3 seconds using `setTimeout`.
+```
+### Q19 
+```
+ Using `setInterval`, write a function that logs "Tick" to the console every second.
+```
