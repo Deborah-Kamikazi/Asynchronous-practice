@@ -130,3 +130,7 @@ performFastAsync('https://jsonplaceholder.typicode.com/todos/1', 10)
 ```
  Using `setInterval`, write a function that logs "Tick" to the console every second.
 ```
+### Q20
+```
+Write a Promise that resolves with "Success!" after 1 second. Log the result to the console.
+```
