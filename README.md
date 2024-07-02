@@ -155,4 +155,11 @@ Write a Promise that resolves with "Success!" after 1 second. Log the result to 
  Write a function that makes an asynchronous request using `XMLHttpRequest` and logs the response.
 
 ```
-                                                                                                                 
+### Q26
+```
+ Create a Promise that resolves with "Data fetched" after 1 second and log the message when it resolves.
+```
+### Q28
+```
+
+```
